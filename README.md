@@ -1,7 +1,8 @@
 # Лабораторная работа №3
 
 ## 1. Показать версию докер
-[1.png]
+<img width="482" height="74" alt="1" src="https://github.com/user-attachments/assets/023f964d-9851-4a6a-ada7-feaef3ddffc5" />
+
 
 ## 2. Залогиниться в hub.docker
 [ссылка]
